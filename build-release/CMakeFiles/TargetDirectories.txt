@@ -1,0 +1,3 @@
+/Users/jonathanlehner/hw_utoronto/CSC418/computer-graphics-ray-tracing/build-release/CMakeFiles/rebuild_cache.dir
+/Users/jonathanlehner/hw_utoronto/CSC418/computer-graphics-ray-tracing/build-release/CMakeFiles/edit_cache.dir
+/Users/jonathanlehner/hw_utoronto/CSC418/computer-graphics-ray-tracing/build-release/CMakeFiles/raytracing.dir
